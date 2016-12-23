@@ -1,1 +1,1 @@
-# Hey! This is my recipes collections!
+# Hey! This is my recipes collection!
